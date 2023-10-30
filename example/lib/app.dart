@@ -1,8 +1,10 @@
 import 'dart:async';
-
+import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_mapbox_navigation/flutter_mapbox_navigation.dart';
+import 'package:http/http.dart' as http;
+import 'package:latlng/latlng.dart';
 
 class SampleNavigationApp extends StatefulWidget {
   const SampleNavigationApp({super.key});
@@ -14,43 +16,17 @@ class SampleNavigationApp extends StatefulWidget {
 class _SampleNavigationAppState extends State<SampleNavigationApp> {
   String? _platformVersion;
   String? _instruction;
-  final _origin = WayPoint(
-      name: "Way Point 1",
-      latitude: 38.9111117447887,
-      longitude: -77.04012393951416,
-      isSilent: true);
-  final _stop1 = WayPoint(
-      name: "Way Point 2",
-      latitude: 38.91113678979344,
-      longitude: -77.03847169876099,
-      isSilent: true);
-  final _stop2 = WayPoint(
-      name: "Way Point 3",
-      latitude: 38.91040213277608,
-      longitude: -77.03848242759705,
-      isSilent: false);
-  final _stop3 = WayPoint(
-      name: "Way Point 4",
-      latitude: 38.909650771013034,
-      longitude: -77.03850388526917,
-      isSilent: true);
-  final _destination = WayPoint(
-      name: "Way Point 5",
-      latitude: 38.90894949285854,
-      longitude: -77.03651905059814,
-      isSilent: false);
 
-  final _home = WayPoint(
-      name: "Home",
-      latitude: 37.77440680146262,
-      longitude: -122.43539772352648,
-      isSilent: false);
+  // ... (your WayPoint initializations here)
 
-  final _store = WayPoint(
-      name: "Store",
-      latitude: 37.76556957793795,
-      longitude: -122.42409811526268,
-      isSilent: false);
+  Future<Map<String, dynamic>> loadLearningJourney() async {
+    String jsonString =
+        await rootBundle.loadString('assets/learning_journey_sample.json');
+    return json.decode(jsonString);
+  }
+
+  List<List<WayPoint>> waypointSegments = [];
+  int currentSegmentIndex = 0;
 
   bool _isMultipleStop = false;
   double? _distanceRemaining, _durationRemaining;
@@ -72,7 +48,6 @@ class _SampleNavigationAppState extends State<SampleNavigationApp> {
     super.dispose();
   }
 
-  // Platform messages are asynchronous, so we initialize in an async method.
   Future<void> initialize() async {
     // If the widget was removed from the tree while the asynchronous platform
     // message was in flight, we want to discard the reply rather than calling
@@ -82,6 +57,7 @@ class _SampleNavigationAppState extends State<SampleNavigationApp> {
     _navigationOption = MapBoxNavigation.instance.getDefaultOptions();
     _navigationOption.simulateRoute = true;
     _navigationOption.language = "en";
+    _navigationOption.tilt = 50;
     //_navigationOption.initialLatitude = 36.1175275;
     //_navigationOption.initialLongitude = -115.1839524;
     MapBoxNavigation.instance.registerRouteEventListener(_onEmbeddedRouteEvent);
@@ -97,6 +73,69 @@ class _SampleNavigationAppState extends State<SampleNavigationApp> {
     setState(() {
       _platformVersion = platformVersion;
     });
+
+    MapBoxNavigation.instance.registerRouteEventListener(_onEmbeddedRouteEvent);
+  }
+
+  Future<List<LatLng>> getRouteFromMapboxDirectionsAPI() async {
+    String startLocation = "-96.7970,32.7767"; // Dallas, TX
+    String endLocation = "-118.2437,34.0522"; // Los Angeles, CA
+    String mapboxAccessToken =
+        "sk.eyJ1IjoibXJ3YWRlcHJvIiwiYSI6ImNsbzdzbDJ2NTA3eGoydnBjaHhrZno3dWEifQ.4YpHjLjjgEbCeMs2269BkQ"; // Replace with your Mapbox access token
+
+    String url =
+        "https://api.mapbox.com/directions/v5/mapbox/driving/$startLocation;$endLocation?access_token=$mapboxAccessToken&geometries=geojson";
+
+    var response = await http.get(Uri.parse(url));
+
+    var jsonResponse = json.decode(response.body);
+    List coordinates = jsonResponse['routes'][0]['geometry']['coordinates'];
+
+    return coordinates
+        .map((coordinate) => LatLng(coordinate[1], coordinate[0]))
+        .toList();
+  }
+
+  Future<List<List<WayPoint>>> _getWaypointsFromRouteSegments() async {
+    var journeyData = await loadLearningJourney();
+
+    List<LatLng> routeCoordinates = await getRouteFromMapboxDirectionsAPI();
+
+    List<List<WayPoint>> waypointSegments = [];
+    List<WayPoint> currentSegment = [];
+    int waypointIndex = 0;
+
+    for (var milestone in journeyData['learning_journey']) {
+      for (var lesson in milestone['lessons']) {
+        if (waypointIndex < routeCoordinates.length) {
+          currentSegment.add(WayPoint(
+            name: lesson['lesson_title'],
+            latitude: routeCoordinates[waypointIndex].latitude,
+            longitude: routeCoordinates[waypointIndex].longitude,
+            isSilent: false,
+          ));
+
+          if (currentSegment.length == 25) {
+            waypointSegments.add(currentSegment);
+            currentSegment = [];
+          }
+
+          waypointIndex++;
+        } else {
+          break;
+        }
+      }
+    }
+
+    if (currentSegment.isNotEmpty) {
+      waypointSegments.add(currentSegment);
+    }
+
+    return waypointSegments;
+  }
+
+  Future<void> getWaypointsFromRoute() async {
+    waypointSegments = await _getWaypointsFromRouteSegments();
   }
 
   @override
@@ -108,224 +147,34 @@ class _SampleNavigationAppState extends State<SampleNavigationApp> {
         ),
         body: Center(
           child: Column(children: <Widget>[
-            Expanded(
-              child: SingleChildScrollView(
-                child: Column(
-                  children: [
-                    const SizedBox(
-                      height: 10,
-                    ),
-                    Text('Running on: $_platformVersion\n'),
-                    Container(
-                      color: Colors.grey,
-                      width: double.infinity,
-                      child: const Padding(
-                        padding: EdgeInsets.all(10),
-                        child: (Text(
-                          "Full Screen Navigation",
-                          style: TextStyle(color: Colors.white),
-                          textAlign: TextAlign.center,
-                        )),
-                      ),
-                    ),
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        ElevatedButton(
-                          child: const Text("Start A to B"),
-                          onPressed: () async {
-                            var wayPoints = <WayPoint>[];
-                            wayPoints.add(_home);
-                            wayPoints.add(_store);
-                            var opt = MapBoxOptions.from(_navigationOption);
-                            opt.simulateRoute = true;
-                            opt.voiceInstructionsEnabled = true;
-                            opt.bannerInstructionsEnabled = true;
-                            opt.units = VoiceUnits.metric;
-                            opt.language = "de-DE";
-                            await MapBoxNavigation.instance
-                                .startNavigation(wayPoints: wayPoints, options: opt);
-                          },
-                        ),
-                        const SizedBox(
-                          width: 10,
-                        ),
-                        ElevatedButton(
-                          child: const Text("Start Multi Stop"),
-                          onPressed: () async {
-                            _isMultipleStop = true;
-                            var wayPoints = <WayPoint>[];
-                            wayPoints.add(_origin);
-                            wayPoints.add(_stop1);
-                            wayPoints.add(_stop2);
-                            wayPoints.add(_stop3);
-                            wayPoints.add(_destination);
+            // ... (your UI code here)
 
-                            MapBoxNavigation.instance.startNavigation(
-                                wayPoints: wayPoints,
-                                options: MapBoxOptions(
-                                    mode: MapBoxNavigationMode.driving,
-                                    simulateRoute: true,
-                                    language: "en",
-                                    allowsUTurnAtWayPoints: true,
-                                    units: VoiceUnits.metric));
-                            //after 10 seconds add a new stop
-                            await Future.delayed(const Duration(seconds: 10));
-                            var stop = WayPoint(
-                                name: "Gas Station",
-                                latitude: 38.911176544398,
-                                longitude: -77.04014366543564,
-                                isSilent: false);
-                            MapBoxNavigation.instance
-                                .addWayPoints(wayPoints: [stop]);
-                          },
-                        ),
-                        const SizedBox(
-                          width: 10,
-                        ),
-                        ElevatedButton(
-                          child: const Text("Free Drive"),
-                          onPressed: () async {
-                            await MapBoxNavigation.instance.startFreeDrive();
-                          },
-                        ),
-                      ],
-                    ),
-                    Container(
-                      color: Colors.grey,
-                      width: double.infinity,
-                      child: const Padding(
-                        padding: EdgeInsets.all(10),
-                        child: (Text(
-                          "Embedded Navigation",
-                          style: TextStyle(color: Colors.white),
-                          textAlign: TextAlign.center,
-                        )),
-                      ),
-                    ),
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        ElevatedButton(
-                          onPressed: _isNavigating
-                              ? null
-                              : () {
-                                  if (_routeBuilt) {
-                                    _controller?.clearRoute();
-                                  } else {
-                                    var wayPoints = <WayPoint>[];
-                                    wayPoints.add(_home);
-                                    wayPoints.add(_store);
-                                    _isMultipleStop = wayPoints.length > 2;
-                                    _controller?.buildRoute(
-                                        wayPoints: wayPoints,
-                                        options: _navigationOption);
-                                  }
-                                },
-                          child: Text(_routeBuilt && !_isNavigating
-                              ? "Clear Route"
-                              : "Build Route"),
-                        ),
-                        const SizedBox(
-                          width: 10,
-                        ),
-                        ElevatedButton(
-                          onPressed: _routeBuilt && !_isNavigating
-                              ? () {
-                                  _controller?.startNavigation();
-                                }
-                              : null,
-                          child: const Text('Start '),
-                        ),
-                        const SizedBox(
-                          width: 10,
-                        ),
-                        ElevatedButton(
-                          onPressed: _isNavigating
-                              ? () {
-                                  _controller?.finishNavigation();
-                                }
-                              : null,
-                          child: const Text('Cancel '),
-                        )
-                      ],
-                    ),
-                    ElevatedButton(
-                      onPressed: _inFreeDrive
-                          ? null
-                          : () async {
-                              _inFreeDrive =
-                                  await _controller?.startFreeDrive() ?? false;
-                            },
-                      child: const Text("Free Drive "),
-                    ),
-                    const Center(
-                      child: Padding(
-                        padding: EdgeInsets.all(10),
-                        child: Text(
-                          "Long-Press Embedded Map to Set Destination",
-                          textAlign: TextAlign.center,
-                        ),
-                      ),
-                    ),
-                    Container(
-                      color: Colors.grey,
-                      width: double.infinity,
-                      child: Padding(
-                        padding: const EdgeInsets.all(10),
-                        child: (Text(
-                          _instruction == null
-                              ? "Banner Instruction Here"
-                              : _instruction!,
-                          style: const TextStyle(color: Colors.white),
-                          textAlign: TextAlign.center,
-                        )),
-                      ),
-                    ),
-                    Padding(
-                      padding: const EdgeInsets.only(
-                          left: 20.0, right: 20, top: 20, bottom: 10),
-                      child: Column(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: <Widget>[
-                          Row(
-                            children: <Widget>[
-                              const Text("Duration Remaining: "),
-                              Text(_durationRemaining != null
-                                  ? "${(_durationRemaining! / 60).toStringAsFixed(0)} minutes"
-                                  : "---")
-                            ],
-                          ),
-                          Row(
-                            children: <Widget>[
-                              const Text("Distance Remaining: "),
-                              Text(_distanceRemaining != null
-                                  ? "${(_distanceRemaining! * 0.000621371).toStringAsFixed(1)} miles"
-                                  : "---")
-                            ],
-                          ),
-                        ],
-                      ),
-                    ),
-                    const Divider()
-                  ],
-                ),
-              ),
+            ElevatedButton(
+              child: Text("Start Learning Journey"),
+              onPressed: () async {
+                try {
+                  await getWaypointsFromRoute();
+                  if (waypointSegments.isNotEmpty) {
+                    currentSegmentIndex = 0;
+                    var opt = MapBoxOptions.from(_navigationOption);
+                    opt.simulateRoute = true;
+                    opt.voiceInstructionsEnabled = true;
+                    opt.bannerInstructionsEnabled = true;
+                    opt.units = VoiceUnits.metric;
+                    opt.language = "en";
+                    print("Options! ${opt}");
+
+                    await MapBoxNavigation.instance.startNavigation(
+                        wayPoints: waypointSegments[currentSegmentIndex],
+                        options: opt);
+                  }
+                } catch (e) {
+                  print("Error starting navigation: $e");
+                }
+              },
             ),
-            SizedBox(
-              height: 300,
-              child: Container(
-                color: Colors.grey,
-                child: MapBoxNavigationView(
-                    options: _navigationOption,
-                    onRouteEvent: _onEmbeddedRouteEvent,
-                    onCreated:
-                        (MapBoxNavigationViewController controller) async {
-                      _controller = controller;
-                      controller.initialize();
-                    }),
-              ),
-            )
+
+            // ... (rest of your UI code here)
           ]),
         ),
       ),
@@ -359,12 +208,21 @@ class _SampleNavigationAppState extends State<SampleNavigationApp> {
           _isNavigating = true;
         });
         break;
+
       case MapBoxEvent.on_arrival:
-        if (!_isMultipleStop) {
-          await Future.delayed(const Duration(seconds: 3));
-          await _controller?.finishNavigation();
-        } else {}
+        if (currentSegmentIndex < waypointSegments.length - 1) {
+          currentSegmentIndex++;
+          var opt = MapBoxOptions.from(_navigationOption);
+          opt.simulateRoute = true;
+          opt.voiceInstructionsEnabled = true;
+          opt.bannerInstructionsEnabled = true;
+          opt.units = VoiceUnits.metric;
+          opt.language = "en";
+          await MapBoxNavigation.instance.startNavigation(
+              wayPoints: waypointSegments[currentSegmentIndex], options: opt);
+        }
         break;
+
       case MapBoxEvent.navigation_finished:
       case MapBoxEvent.navigation_cancelled:
         setState(() {

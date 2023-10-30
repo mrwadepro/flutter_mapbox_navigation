@@ -1,0 +1,3913 @@
+{
+  "learning_journey": [
+    {
+      "milestone_id": "45e20614-46a0-4f9b-9623-7d131be52c85_STM_2803_1_v2",
+      "framework": "STM",
+      "subject": "SK.DUS",
+      "grade_id": 2803,
+      "grade_name": "Durable Skills",
+      "grade_seq": 1,
+      "lessons": [
+        {
+          "lesson_id": "8eadd648-e303-430e-ab71-e1d404b7f3ae",
+          "lesson_title": "Accepting Imperfection",
+          "tx_comp_code": "SK.DUS-DS-M-1",
+          "tx_display_code": "J1M1C2",
+          "tx_comp_name": "Develop the skills to effectively self-monitor and self-question introspectively while increasing a healthy level of self confidence",
+          "tx_comp_student_desc": "Develop the skills to effectively self-monitor and self-question introspectively while increasing a healthy level of self confidence",
+          "tx_comp_seq": 1,
+          "tx_domain_code": "M",
+          "tx_domain_name": "Metacognition",
+          "tx_domain_seq": 1,
+          "collection_summary": [
+            {
+              "id": "5d5e0022-300a-4a6f-bf2a-4cbb846c3071",
+              "title": "Self -Management : Accept Imperfection",
+              "format": "collection",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/15e0df1e-0df2-4c4e-89bf-60de08493999.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-1"],
+              "learning_objective": "The goal of this lesson is to learn to: accept yourself, flaws and all ; and to be kind to yourself.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": "SkillsLine",
+                "21_century_skills": [32]
+              }
+            },
+            {
+              "id": "25521fbf-2938-4681-ac44-e196f6c01d76",
+              "title": "Assessment: Accepting Imperfection",
+              "format": "assessment",
+              "sequence_id": 3,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/091a988f-5386-4b3a-bfdc-98381237a264.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [32],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "d22375ae-ff96-46f2-ba10-58d9332c3844",
+          "lesson_title": "Identify Your Self-Limiting Beliefs",
+          "tx_comp_code": "SK.DUS-DS-M-2",
+          "tx_display_code": "J1M1C3",
+          "tx_comp_name": "Understand the strategy and benefit of self-evaluating and identifying strengths and weaknesses",
+          "tx_comp_student_desc": "Understand the strategy and benefit of self-evaluating and identifying strengths and weaknesses",
+          "tx_comp_seq": 2,
+          "tx_domain_code": "M",
+          "tx_domain_name": "Metacognition",
+          "tx_domain_seq": 1,
+          "collection_summary": [
+            {
+              "id": "1c61e747-5faf-4dbd-9ef8-70e188f9d68e",
+              "title": "Self- Management : Identify Self Limits",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/7bb75621-322a-43ff-a56a-5e8c64022c9f.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-2"],
+              "learning_objective": "Identify and assess self limiting beliefs. Self-limiting beliefs are the ones which have the greatest potential for impacting negatively upon you achieving your full potential.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": [32]
+              }
+            },
+            {
+              "id": "e5119ca8-ce67-42c9-9b97-72bc61f7c41d",
+              "title": "Assessment  - Identify Self Belief",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/6795e91c-5def-4e15-ae4d-9b5c1fc934ad.jfif",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [32],
+                "depth_of_knowledge": [12, 13]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "ae6bc53d-400f-4491-bb3a-94260b6a2707",
+          "lesson_title": "Reframe",
+          "tx_comp_code": "SK.DUS-DS-M-3",
+          "tx_display_code": "J1M1C4",
+          "tx_comp_name": "Effectively redefine a problem as a challenge",
+          "tx_comp_student_desc": "Effectively redefine a problem as a challenge",
+          "tx_comp_seq": 3,
+          "tx_domain_code": "M",
+          "tx_domain_name": "Metacognition",
+          "tx_domain_seq": 1,
+          "collection_summary": [
+            {
+              "id": "f2144bd2-4829-462e-8294-27fbbeed011c",
+              "title": "Self-Management: Reframe",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/c957e7c4-0719-4aee-b944-887236d304f7.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-3"],
+              "learning_objective": "How do I change my self-limiting beliefs?\n\nWe all have the power to change the way we think. If we have self-limiting beliefs, we need to change them to positive beliefs. This process takes practice.\n\nNow that you have learned to identify your self-limiting beliefs, in this activity, you will learn to change your self-limiting beliefs.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": [32]
+              }
+            },
+            {
+              "id": "63323282-5619-4cf0-9944-056a915f711d",
+              "title": "Assessment - Reframe",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/4ec97fdf-a905-46a0-9459-4b7c6b024587.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [32],
+                "depth_of_knowledge": [12, 13]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "79da226c-ce3a-4b57-a78e-011fa88805f5",
+          "lesson_title": "Giving Yourself a Break",
+          "tx_comp_code": "SK.DUS-DS-M-4",
+          "tx_display_code": "J1M1C5",
+          "tx_comp_name": "Adequately implement the technique of self-compassion to be able to relate to yourself in a way that is forgiving, accepting and loving when encountering challenges",
+          "tx_comp_student_desc": "Adequately implement the technique of self-compassion to be able to relate to yourself in a way that is forgiving, accepting and loving when encountering challenges",
+          "tx_comp_seq": 4,
+          "tx_domain_code": "M",
+          "tx_domain_name": "Metacognition",
+          "tx_domain_seq": 1,
+          "collection_summary": [
+            {
+              "id": "75742980-7112-4374-9c1f-f5a563814814",
+              "title": "Self Management: Give yourself a break",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/87001d1c-3b93-4cf6-a60c-a215aaa50fc8.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-4"],
+              "learning_objective": "Adequately implement the technique of self-compassion to be able to relate to yourself in a way that is forgiving, accepting and loving when encountering challenges",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": [32]
+              }
+            },
+            {
+              "id": "2509065d-8067-48ed-aa7a-d48bae68561e",
+              "title": "Assessment - Give yourself a break",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/8367e107-9e29-4828-89f9-52b853a20354.jfif",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [32],
+                "depth_of_knowledge": [12, 13]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "163f92d9-8681-41c5-83ab-0cecbd055bd5",
+          "lesson_title": "Set a Direction",
+          "tx_comp_code": "SK.DUS-DS-M-5",
+          "tx_display_code": "J4M1C3",
+          "tx_comp_name": "Establish objectives to be achieved over a period of time.",
+          "tx_comp_student_desc": "Establish objectives to be achieved over a period of time.",
+          "tx_comp_seq": 5,
+          "tx_domain_code": "M",
+          "tx_domain_name": "Metacognition",
+          "tx_domain_seq": 1,
+          "collection_summary": [
+            {
+              "id": "aec87e8f-e5d0-45af-8435-2ad7806b2ab7",
+              "title": "Self-Management: Set a Direction",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/399f3f4a-d688-4dce-86ed-e1db7e8dfc99.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-5"],
+              "learning_objective": "Establish objectives to be achieved over a period of time.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": [32, 19]
+              }
+            },
+            {
+              "id": "e411e0a1-6ee0-4ebc-b15a-bfe82609cf32",
+              "title": "Assessment - Set a Direction",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/441677ed-8be0-4698-8278-7b90bb93524c.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [32],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "163f92d9-8681-41c5-83ab-0cecbd055bd5",
+          "lesson_title": "Set a Direction",
+          "tx_comp_code": "SK.DUS-DS-M-4",
+          "tx_display_code": "J1M1C5",
+          "tx_comp_name": "Adequately implement the technique of self-compassion to be able to relate to yourself in a way that is forgiving, accepting and loving when encountering challenges",
+          "tx_comp_student_desc": "Adequately implement the technique of self-compassion to be able to relate to yourself in a way that is forgiving, accepting and loving when encountering challenges",
+          "tx_comp_seq": 4,
+          "tx_domain_code": "M",
+          "tx_domain_name": "Metacognition",
+          "tx_domain_seq": 1,
+          "collection_summary": [
+            {
+              "id": "aec87e8f-e5d0-45af-8435-2ad7806b2ab7",
+              "title": "Self-Management: Set a Direction",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/399f3f4a-d688-4dce-86ed-e1db7e8dfc99.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-5"],
+              "learning_objective": "Establish objectives to be achieved over a period of time.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": [32, 19]
+              }
+            },
+            {
+              "id": "e411e0a1-6ee0-4ebc-b15a-bfe82609cf32",
+              "title": "Assessment - Set a Direction",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/441677ed-8be0-4698-8278-7b90bb93524c.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [32],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "2fa61686-195a-42f4-80b8-5687fc084f2c",
+          "lesson_title": "Make a Plan",
+          "tx_comp_code": "SK.DUS-DS-M-6",
+          "tx_display_code": "J4M4C1",
+          "tx_comp_name": "Coordinates ideas and resources to achieve goals.",
+          "tx_comp_student_desc": "Coordinates ideas and resources to achieve goals.",
+          "tx_comp_seq": 6,
+          "tx_domain_code": "M",
+          "tx_domain_name": "Metacognition",
+          "tx_domain_seq": 1,
+          "collection_summary": [
+            {
+              "id": "87b983f4-a4be-44ff-9a8e-1888b61a3983",
+              "title": "Self Management - Make A Plan",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/768ebba0-8d56-4d82-adc1-5b50e3ff171a.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-6"],
+              "learning_objective": "Coordinates ideas and resources to achieve goals.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": [32]
+              }
+            },
+            {
+              "id": "01b190c1-79fa-4d0f-afdb-31e0133effdf",
+              "title": "Assessment - Make A Plan",
+              "format": "assessment",
+              "sequence_id": 3,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/e4bd68fb-bdd9-43e2-938c-7840814a281d.jfif",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-6"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [32],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "c0a316bd-8112-48db-a4a5-c35da6f5fbbf",
+          "lesson_title": "Take Action",
+          "tx_comp_code": "SK.DUS-DS-M-7",
+          "tx_display_code": "J4M4C2",
+          "tx_comp_name": "Creates realistic plans for goals and follows them",
+          "tx_comp_student_desc": "Creates realistic plans for goals and follows them",
+          "tx_comp_seq": 7,
+          "tx_domain_code": "M",
+          "tx_domain_name": "Metacognition",
+          "tx_domain_seq": 1,
+          "collection_summary": [
+            {
+              "id": "15fd65b2-a855-413e-b010-fe4fb16f89df",
+              "title": "Self-Management -Take Action",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/84813d54-d976-4039-8bdb-7ee5df2fb98a.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-7"],
+              "learning_objective": "Creates realistic plans for goals and follows them",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": [19, 32]
+              }
+            },
+            {
+              "id": "d4e345f6-35ba-4137-a2f0-8c54cb0e6057",
+              "title": "Assessment - Take Action",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/78bd31ed-bbe9-4caa-9380-dc8d8b28cbc3.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-7"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "thumbnailAltText": "SkillsLine",
+                "21_century_skills": [19, 32],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "bb43fc7c-6a34-4da6-b045-91c326b91677",
+          "lesson_title": "Overcome Roadblocks",
+          "tx_comp_code": "SK.DUS-DS-M-8",
+          "tx_display_code": "J4M4C3",
+          "tx_comp_name": "Adapts approach, goals, and methods to achieve solutions and results in dynamic situations.",
+          "tx_comp_student_desc": "Adapts approach, goals, and methods to achieve solutions and results in dynamic situations.",
+          "tx_comp_seq": 8,
+          "tx_domain_code": "M",
+          "tx_domain_name": "Metacognition",
+          "tx_domain_seq": 1,
+          "collection_summary": [
+            {
+              "id": "bf811c06-c134-4b19-9c88-95c52fa270ca",
+              "title": "Self-Management - Overcome Roadblocks",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/fd7931ef-a436-4bab-9e70-254689380467.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-8"],
+              "learning_objective": "Adapts approach, goals, and methods to achieve solutions and results in dynamic situations.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "372b3627-f337-4b67-8aef-76d9c0db2117",
+              "title": "Assessment - Overcome Roadblocks",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/29454390-caa0-4829-af3f-065117820ddd.jfif",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-8"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [32],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "cb6ccea3-d5d1-45b8-b972-63fc70d9e825",
+          "lesson_title": "Evaluate Your Progress",
+          "tx_comp_code": "SK.DUS-DS-M-9",
+          "tx_display_code": "J4M4C4",
+          "tx_comp_name": "Focuses on results and desired outcomes and how best to achieve them. Gets the job done.",
+          "tx_comp_student_desc": "Focuses on results and desired outcomes and how best to achieve them. Gets the job done.",
+          "tx_comp_seq": 9,
+          "tx_domain_code": "M",
+          "tx_domain_name": "Metacognition",
+          "tx_domain_seq": 1,
+          "collection_summary": [
+            {
+              "id": "df203edd-1fa4-4b52-96cc-a5a523227089",
+              "title": "Self-Management - Evaluate Your Progress",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/c8ab85f2-71db-448c-9e18-bf65a8effe80.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-9"],
+              "learning_objective": "Focuses on results and desired outcomes and how best to achieve them. Gets the job done.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": [32]
+              }
+            },
+            {
+              "id": "99cf1070-7789-4a16-b2a3-a4777b704df7",
+              "title": "Assessment - Evaluate Your Progress",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/ec6544bc-f419-4fa5-9129-f4c8e2eba4bb.jfif",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-9"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [32, 19],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "ad0507ec-a77b-49fd-8be0-c6020c4691c1",
+          "lesson_title": "Get Organized",
+          "tx_comp_code": "SK.DUS-DS-M-10",
+          "tx_display_code": "J5M2C1",
+          "tx_comp_name": "Demonstrate the ability to use your time and resources efficiently and effectively.",
+          "tx_comp_student_desc": "Demonstrate the ability to use your time and resources efficiently and effectively.",
+          "tx_comp_seq": 10,
+          "tx_domain_code": "M",
+          "tx_domain_name": "Metacognition",
+          "tx_domain_seq": 1,
+          "collection_summary": [
+            {
+              "id": "23104658-7738-42d2-a497-b740d87ca9f9",
+              "title": "Self-Management: Get Organized",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/5e2830cb-b2b8-428e-9ee0-31d2bab9b758.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-10"],
+              "learning_objective": "Demonstrate the ability to use your time and resources efficiently and effectively.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": [32, 23]
+              }
+            },
+            {
+              "id": "b7130948-383d-4ef1-9307-ee933ac858cc",
+              "title": "Assessment - Get Organized",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/34cd2ec8-4079-4392-8150-057870431953.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-10"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [32],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "e328a4eb-f655-4ad5-9cfa-f0a9e49f3614",
+          "lesson_title": "Prioritize",
+          "tx_comp_code": "SK.DUS-DS-M-11",
+          "tx_display_code": "J5M2C2",
+          "tx_comp_name": "Determine which tasks are the most important and urgent and how much time to allocate to each task.",
+          "tx_comp_student_desc": "Determine which tasks are the most important and urgent and how much time to allocate to each task.",
+          "tx_comp_seq": 11,
+          "tx_domain_code": "M",
+          "tx_domain_name": "Metacognition",
+          "tx_domain_seq": 1,
+          "collection_summary": [
+            {
+              "id": "79462aa6-3bc2-4dc2-9dc9-03613d0a26e6",
+              "title": "Self-Management: Prioritze",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/744aa877-293c-460a-a8de-ae40040ffb46.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-11"],
+              "learning_objective": "Determine which tasks are the most important and urgent and how much time to allocate to each task.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": [23, 32]
+              }
+            },
+            {
+              "id": "9dedf4df-ea4f-448b-9dc7-201e290b2ab3",
+              "title": "Assessment - Prioritize",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/ccbdb56c-793f-47dc-8969-9d150de77e0b.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-11"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [19, 23, 32],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "3c076bf6-bcef-40e3-8754-7e342c17d4ba",
+          "lesson_title": "Manage multiple roles and responsibilities",
+          "tx_comp_code": "SK.DUS-DS-M-12",
+          "tx_display_code": "J5M2C3",
+          "tx_comp_name": "Manages own time, priorities, and resources to achieve goals.",
+          "tx_comp_student_desc": "Manages own time, priorities, and resources to achieve goals.",
+          "tx_comp_seq": 12,
+          "tx_domain_code": "M",
+          "tx_domain_name": "Metacognition",
+          "tx_domain_seq": 1,
+          "collection_summary": [
+            {
+              "id": "a18cdaba-eb29-4ed7-83cb-d99e07f84ca3",
+              "title": "Self-Management: Manage multiple roles",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/384e326b-42aa-45d1-b5c6-dce7f1f39b0d.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-12"],
+              "learning_objective": "Manages own time, priorities, and resources to achieve goals.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": [32, 23]
+              }
+            },
+            {
+              "id": "89bd7835-2df1-4e52-9bcb-fd61548c84c3",
+              "title": "Assessment - Manage Roles",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/b3614178-5d55-48dd-be6f-0c693fc0a18c.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-12"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [32],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "3b203440-da10-4608-bfaf-4fde4389f1fe",
+          "lesson_title": "Pay Attention to Detail",
+          "tx_comp_code": "SK.DUS-DS-M-13",
+          "tx_display_code": "J5M3C2",
+          "tx_comp_name": "Diligently attends to details and pursues quality in accomplishing tasks.",
+          "tx_comp_student_desc": "Diligently attends to details and pursues quality in accomplishing tasks.",
+          "tx_comp_seq": 13,
+          "tx_domain_code": "M",
+          "tx_domain_name": "Metacognition",
+          "tx_domain_seq": 1,
+          "collection_summary": [
+            {
+              "id": "94b76e06-5b56-4331-8d38-8d36294a00eb",
+              "title": "Self-Management: Pay attention to detail",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/63af3af7-1064-4506-b6ab-8236de5efa38.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-13"],
+              "learning_objective": "Diligently attends to details and pursues quality in accomplishing tasks.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": [32]
+              }
+            },
+            {
+              "id": "6da5270b-4fa5-42b7-9721-f03b2e28d8f6",
+              "title": "Assessment - Detail",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/48cdbbfe-d535-47e1-b50c-7f78334858a1.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-M-13"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [32],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "f73125de-6df4-4834-9814-c812ec6ab83b",
+          "lesson_title": "Get To Know Your Emotions",
+          "tx_comp_code": "SK.DUS-DS-MID-1",
+          "tx_display_code": "DS.MID.1",
+          "tx_comp_name": "Maintains a moment-by-moment awareness of  thoughts, feelings, bodily sensations, and surrounding environment, through a gentle, nurturing lens.",
+          "tx_comp_student_desc": "Maintains a moment-by-moment awareness of  thoughts, feelings, bodily sensations, and surrounding environment, through a gentle, nurturing lens.",
+          "tx_comp_seq": 1,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "50dc19e5-b4be-4750-91e0-9035a526b468",
+              "title": "Get To Know Your Emotions",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/d7198e37-b283-4807-b196-e0ce03b6379c.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-1"],
+              "learning_objective": "In this activity, you will learn about: the many reasons you may not be aware of your emotions, the benefits of being aware of your emotions, what it means to tap into your positive emotions",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "42c8aac3-1e05-4709-9721-1ec9812c74d4",
+              "title": "Assessment: Getting To Know Your Emotions",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/ac412f3b-76f7-4c41-8765-b1920784923a.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "036fd1e5-6afa-4ec8-9d94-184b1d0f713c",
+          "lesson_title": "Be Emotionally Aware",
+          "tx_comp_code": "SK.DUS-DS-MID-1",
+          "tx_display_code": "DS.MID.1",
+          "tx_comp_name": "Maintains a moment-by-moment awareness of  thoughts, feelings, bodily sensations, and surrounding environment, through a gentle, nurturing lens.",
+          "tx_comp_student_desc": "Maintains a moment-by-moment awareness of  thoughts, feelings, bodily sensations, and surrounding environment, through a gentle, nurturing lens.",
+          "tx_comp_seq": 1,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "3991a04c-2ab1-476c-93e9-b8b9949c4c2e",
+              "title": "Be Emotionally Aware",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/a52bb24a-1a96-4db4-b309-82b021ab0b49.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-1"],
+              "learning_objective": "In this activity, you will learn about: the many reasons you may not be aware of your emotions, the benefits of being aware of your emotions, what it means to tap into your positive emotions.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "31c0736b-ce15-4225-bf71-4d63a0606c49",
+              "title": "Assessment: Be Emotionally Aware",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/a82b2371-5d2f-4767-bef6-d38716f71fb2.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "21b77d16-f288-4398-8c09-f771a840fc29",
+          "lesson_title": "Regulate Your Emotions",
+          "tx_comp_code": "SK.DUS-DS-MID-1",
+          "tx_display_code": "DS.MID.1",
+          "tx_comp_name": "Maintains a moment-by-moment awareness of  thoughts, feelings, bodily sensations, and surrounding environment, through a gentle, nurturing lens.",
+          "tx_comp_student_desc": "Maintains a moment-by-moment awareness of  thoughts, feelings, bodily sensations, and surrounding environment, through a gentle, nurturing lens.",
+          "tx_comp_seq": 1,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "774da081-8cde-48db-827b-f2f5b8f0d3ba",
+              "title": "Regulate Your Emotions",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/5c18ff29-89ec-4b11-b23f-f3073ebb07c9.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-1"],
+              "learning_objective": "In this activity, you will learn:\n\nhow to  process your emotions and learn from them, rather than ignore or get consumed by them; strategies to self-calm, and techniques to process and regulate your emotions",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "9c7b9a74-eadd-4f2a-9de9-7d470f745ebb",
+              "title": "Assessment: Regulate Your Emotions",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/d895a34a-096e-491a-9393-65bf15cbbacc.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "c5ffcd00-85a6-4fa5-b1d3-c5345bdc0c73",
+          "lesson_title": "Express Empathy",
+          "tx_comp_code": "SK.DUS-DS-MID-2",
+          "tx_display_code": "DS.MID.2",
+          "tx_comp_name": "Has the ability to understand another person's thoughts and feelings in a situation from their point of view, rather than your own",
+          "tx_comp_student_desc": "Has the ability to understand another person's thoughts and feelings in a situation from their point of view, rather than your own",
+          "tx_comp_seq": 2,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "fa1ec2f7-e302-43a7-9ba9-0acc9347edb3",
+              "title": "Express Empathy",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/3e37a399-788c-47fd-8059-5c909f0f51d9.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-2"],
+              "learning_objective": "In this activity, you will learn:  the differences between sympathy and empathy; to develop and practice your empathy skills",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "03026901-3cc5-4635-ae05-62cbec59708f",
+              "title": "Assessment: Express Empathy",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/010e300c-1e0c-4906-bf38-fa812db6bac8.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "3ae2c390-5cf6-41f7-93c2-75d866a4aced",
+          "lesson_title": "Strengthen Relationships",
+          "tx_comp_code": "SK.DUS-DS-MID-3",
+          "tx_display_code": "DS.MID.3",
+          "tx_comp_name": "Builds constructive working relationships characterized by a high level of acceptance, cooperation, and mutual respect.",
+          "tx_comp_student_desc": "Builds constructive working relationships characterized by a high level of acceptance, cooperation, and mutual respect.",
+          "tx_comp_seq": 3,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "3323c9ff-8a08-4a7e-ae31-8dc2880ca24c",
+              "title": "Strengthen Relationships",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/6faf2a08-277b-4dd1-8312-fc2d512fd956.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-3"],
+              "learning_objective": "In this activity, you will learn to:  be compassionate, stay level-headed, have humility, show optimism, and inspire others.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "3cfc9b8a-bdec-44fa-b77e-4a46e0adc3b2",
+              "title": "Assessment: Strengthen Relationships",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/770beca8-80af-4b0b-bdfe-d392358e486c.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "621aab3c-53b3-4193-ba6e-1bb428a8bbf1",
+          "lesson_title": "Reflect And Get Feedback",
+          "tx_comp_code": "SK.DUS-DS-MID-4",
+          "tx_display_code": "DS.MID.4",
+          "tx_comp_name": "Identifies own strengths and weaknesses in a piece of work by reflecting and getting feedback",
+          "tx_comp_student_desc": "Identifies own strengths and weaknesses in a piece of work by reflecting and getting feedback",
+          "tx_comp_seq": 4,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "7205c875-e494-4f4e-ad95-37123f4135d2",
+              "title": "Assessment: Reflect And Get Feedback",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/77b76642-e11e-4341-9e20-7b6dae091844.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": null,
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            },
+            {
+              "id": "73d0b9b4-9837-4d07-bbdb-eb37961ab663",
+              "title": "Reflect And Get Feedback",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/5fbbd0f2-2535-441e-ac6e-1c4eb4eff7b8.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-4"],
+              "learning_objective": "In this activity, you will learn how to: incorporate feedback, develop the skills of self-assessment and reflection, and identify your strengths and challenges",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "c1df3831-026f-49d7-8008-cbdd8824cd06",
+          "lesson_title": "Discover Your Motivators",
+          "tx_comp_code": "SK.DUS-DS-MID-5",
+          "tx_display_code": "DS.MID.5",
+          "tx_comp_name": "Able to discover that which provides a reason or stimulus to do something",
+          "tx_comp_student_desc": "Able to discover that which provides a reason or stimulus to do something",
+          "tx_comp_seq": 5,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "9fbd7e89-9e51-4643-90a1-e203b82120c5",
+              "title": "Discover Your Motivators",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/6c6fb893-12d0-4bab-8d6f-36a0715aae3c.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-5"],
+              "learning_objective": "In this activity, you will learn:  the different things that motivate people,  and to identify what motivates you",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "281d8f6e-c743-40c1-896e-3019037762f3",
+              "title": "Assessment: Discover Your Motivators",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/1643512e-5f8f-411f-b597-1328e682e317.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-5"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "de6437ce-bc54-45ce-a345-f18d2359d9a8",
+          "lesson_title": "Explore Your Purpose",
+          "tx_comp_code": "SK.DUS-DS-MID-6",
+          "tx_display_code": "DS.MID.6",
+          "tx_comp_name": "Explores ways to impact the environment around you  in a way that fulfills and satisfies you.",
+          "tx_comp_student_desc": "Explores ways to impact the environment around you  in a way that fulfills and satisfies you.",
+          "tx_comp_seq": 6,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "90bcdef6-1d2e-449d-894f-3950308ec5b3",
+              "title": "Explore Your Purpose",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/386b24ba-c04e-4a51-bd9b-dc8d7d42ce08.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-6"],
+              "learning_objective": "In this activity, you will learn about:  the different ways that people find purpose; how self-awareness will help you discover your own purpose",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "c05cf71c-822c-46df-b303-922eb54f8a89",
+              "title": "Assessment: Explore Your Purpose",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/47723de8-32b7-4b82-ac35-c4fe9a071467.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-6"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "cb03d2fe-0681-48ec-9a91-7a9976721e2e",
+          "lesson_title": "Find Purpose At Work",
+          "tx_comp_code": "SK.DUS-DS-MID-6",
+          "tx_display_code": "DS.MID.6",
+          "tx_comp_name": "Explores ways to impact the environment around you  in a way that fulfills and satisfies you.",
+          "tx_comp_student_desc": "Explores ways to impact the environment around you  in a way that fulfills and satisfies you.",
+          "tx_comp_seq": 6,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "d148bb7d-5c66-4968-b50e-a1f4b7e2f692",
+              "title": "Find Purpose At Work",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/5642fb8c-0beb-49e7-882c-5b7b69f55094.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-6"],
+              "learning_objective": "In this activity, you will learn:  the different kinds of work values & how combinations of these work values lead to job satisfaction",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "2b82b591-8489-45a1-a323-f428c99f7e98",
+              "title": "Assessment: Find Purpose At Work",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/8127551d-6de5-4fac-9bbb-a24e88a3e109.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-6"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "3c446c98-417c-4fcb-bc24-372460407ded",
+          "lesson_title": "Be An Active Listener",
+          "tx_comp_code": "SK.DUS-DS-MID-7",
+          "tx_display_code": "DS.MID.7",
+          "tx_comp_name": "Has the ability to focus on a speaker, understand their message, comprehend the information and respond thoughtfully.",
+          "tx_comp_student_desc": "Has the ability to focus on a speaker, understand their message, comprehend the information and respond thoughtfully.",
+          "tx_comp_seq": 7,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "7efe4263-4922-4da2-9bec-8c3f82ebb258",
+              "title": "Be An Active Listener",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/30234a75-f014-4a7c-8404-78cdf8dfcbc8.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-7"],
+              "learning_objective": "In this activity, you will learn strategies for:  listening actively and how to deal with the mental distractions that get in the way of active listening,  how your body language, tone, words, and actions can make people more or less willing to openly share information with you",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "efeda155-314f-4b13-94f7-2337883aa149",
+              "title": "Assessment: Be An Active Listener",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/03f3ee0d-ba16-4cae-9a09-f8e41ad0773c.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-7"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "90868bff-e02b-4a35-842a-2d1fa074da28",
+          "lesson_title": "Encourage Connections",
+          "tx_comp_code": "SK.DUS-DS-MID-7",
+          "tx_display_code": "DS.MID.7",
+          "tx_comp_name": "Has the ability to focus on a speaker, understand their message, comprehend the information and respond thoughtfully.",
+          "tx_comp_student_desc": "Has the ability to focus on a speaker, understand their message, comprehend the information and respond thoughtfully.",
+          "tx_comp_seq": 7,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "32623693-4efd-4152-8aee-4197db18d7ee",
+              "title": "Assessment: Encourage Connections",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/35717a12-bf2f-4db4-b4b8-b074e56b86c7.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-7"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            },
+            {
+              "id": "9352750f-b459-46b5-85b0-4bdd98622311",
+              "title": "Encourage Connections",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/d055b581-1718-4861-8560-f65fa79b16b0.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-7"],
+              "learning_objective": "In this activity, you will learn:  which questions to ask and how to ask them in order to encourage or discourage connections; the different ways that sympathy, empathy, summarizing, and clarifying can affect the way you connect with people",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "c09b5885-74d7-4330-bf4d-005bb6ff7d87",
+          "lesson_title": "Accept Feedback",
+          "tx_comp_code": "SK.DUS-DS-MID-7",
+          "tx_display_code": "DS.MID.7",
+          "tx_comp_name": "Has the ability to focus on a speaker, understand their message, comprehend the information and respond thoughtfully.",
+          "tx_comp_student_desc": "Has the ability to focus on a speaker, understand their message, comprehend the information and respond thoughtfully.",
+          "tx_comp_seq": 7,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "82aaaed4-7422-4429-a2bd-f4be06cb3cdf",
+              "title": "Accept Feedback",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/6f070b1b-1af1-43fb-8a44-0284c16d4dc4.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-7"],
+              "learning_objective": "In this activity you will learn how feedback is valuable for: acknowledging your strengths, \nidentifying ways you can improve, getting information about your blind spots, and learning how you come across to others",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "53da17e1-dda2-459a-8009-289529b7482c",
+              "title": "Assessment: Accept Feedback",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/915c4e87-ccf9-49f4-ac69-bc4cc27fa02b.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-7"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "5747206e-e3ba-437c-bc7f-983e249c49eb",
+          "lesson_title": "Welcome Diversity",
+          "tx_comp_code": "SK.DUS-DS-MID-8",
+          "tx_display_code": "DS.MID.8",
+          "tx_comp_name": "Demonstrates flexibility by adapting to diverse environments.",
+          "tx_comp_student_desc": "Demonstrates flexibility by adapting to diverse environments.",
+          "tx_comp_seq": 8,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "7508cd81-c7ff-4a76-adbb-1dbe0fbe68bc",
+              "title": "Welcome Diversity",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/dcffbd1e-f8f6-4082-9daf-f2872eda9e36.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-8"],
+              "learning_objective": "In this activity, you will learn about:  the many forms of diversity & the reasons that it is important to welcome diversity",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "7512e1c7-9af4-4f4a-a764-c4cee965fe30",
+              "title": "Assessment: Welcome Diversity",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/cfb3dc48-5764-427f-9f2e-4af0a4aae101.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-8"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "8b101ba2-ebf2-44b5-8008-838afb3d2f27",
+          "lesson_title": "Challenge Your Biases",
+          "tx_comp_code": "SK.DUS-DS-MID-9",
+          "tx_display_code": "DS.MID.9",
+          "tx_comp_name": "Identifies resources and eliminate barriers resulting from\nindividual and systemic racism, inequities, and biases.",
+          "tx_comp_student_desc": "Identifies resources and eliminate barriers resulting from\nindividual and systemic racism, inequities, and biases.",
+          "tx_comp_seq": 9,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "d32fb56d-ad5e-45d9-b3bb-29c9549c2327",
+              "title": "Challenge Your Biases",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/474f2be6-de7c-4928-b032-312f85c98482.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-9"],
+              "learning_objective": "In this challenge, you will learn about:  the different types of biases; the different factors that contribute to exclusion and bias",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "53343c0b-99f9-4049-9604-feffe3a290e3",
+              "title": "Assessment: Challenge Your Biases",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/06614b99-0e80-497c-9e29-8a4da497ac85.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-9"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "0ddc73a0-7aee-40c3-bd3e-4ffd657d1ea4",
+          "lesson_title": "Practice Inclusion",
+          "tx_comp_code": "SK.DUS-DS-MID-10",
+          "tx_display_code": "DS.MID.10",
+          "tx_comp_name": "Actively contributes to inclusive and equitable practices that\ninfluence individual and systemic change",
+          "tx_comp_student_desc": "Actively contributes to inclusive and equitable practices that\ninfluence individual and systemic change",
+          "tx_comp_seq": 10,
+          "tx_domain_code": "MID",
+          "tx_domain_name": "Mindfulness",
+          "tx_domain_seq": 10,
+          "collection_summary": [
+            {
+              "id": "4e0d9c33-5dde-40f1-a76a-83316fe98eee",
+              "title": "Practice Inclusion",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/d1c24406-96bc-483d-a3a0-e667bc78c097.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-10"],
+              "learning_objective": "In this challenge, you will learn: strategies to be more inclusive, strategies to encourage people to share alternative perspectives, to explore your biases, to recognize how you may be excluding people with the way you speak and think about others",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "3d332c36-5894-4555-b741-a346ce476db6",
+              "title": "Assessment: Practice Inclusion",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/7e4dd4bf-f33f-489a-80d7-839e47cebdeb.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-MID-10"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "1a29ebaa-8ad4-49f3-9781-786233a9ee49",
+          "lesson_title": "Show Up Ready",
+          "tx_comp_code": "SK.DUS-DS-C-1",
+          "tx_display_code": "DS.C.1",
+          "tx_comp_name": "Demonstrates ability to come prepared for the tasks at hand",
+          "tx_comp_student_desc": "Demonstrates ability to come prepared for the tasks at hand",
+          "tx_comp_seq": 1,
+          "tx_domain_code": "C",
+          "tx_domain_name": "Character",
+          "tx_domain_seq": 2,
+          "collection_summary": [
+            {
+              "id": "c2576de4-9759-4f82-8d70-b4d5b89b7c7b",
+              "title": "Show Up Ready",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/6a3e209a-fce9-4a22-b752-7954474195f6.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-C-1"],
+              "learning_objective": "In this activity, you will learn strategies to improve your attitude & change the way people see you.  Because when other people think you are a positive person, you have greater success at school, at work, and in life.",
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "3204b5d5-a976-4fcb-b05b-92038c069dfd",
+              "title": "Assessment: Show Up Ready",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/bbe786df-c3ee-4f3c-9a55-05c7c5ac85eb.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-C-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "5cb29e00-6067-47bd-9919-bd6c3cc0d8ce",
+          "lesson_title": "Take Ownership",
+          "tx_comp_code": "SK.DUS-DS-C-2",
+          "tx_display_code": "DS.C.2",
+          "tx_comp_name": "Takes initiative and responsibility for individual growth and success",
+          "tx_comp_student_desc": "Takes initiative and responsibility for individual growth and success",
+          "tx_comp_seq": 2,
+          "tx_domain_code": "C",
+          "tx_domain_name": "Character",
+          "tx_domain_seq": 2,
+          "collection_summary": [
+            {
+              "id": "d4e7e5cd-c7e6-4899-af32-6be45a121026",
+              "title": "Take Ownership",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/185e4073-b674-42fe-9de0-a07cb19e4fc5.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-C-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "51ddd1c7-a5ff-4ee4-9333-d7e167f2d768",
+              "title": "Assessment: Take Ownership",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/a306bb9c-0b5e-488a-ad6a-e2ee1b0f000f.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-C-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [],
+                "21_century_skills": [],
+                "depth_of_knowledge": []
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "4eadce1a-863a-428a-82c2-44d1c4bb8997",
+          "lesson_title": "Make Mistakes",
+          "tx_comp_code": "SK.DUS-DS-C-3",
+          "tx_display_code": "DS.C.3",
+          "tx_comp_name": "Understands the importance of an action, decision, or judgment that produces an unwanted or unintentional result and how to respond to it constructively",
+          "tx_comp_student_desc": "Understands the importance of an action, decision, or judgment that produces an unwanted or unintentional result and how to respond to it constructively",
+          "tx_comp_seq": 3,
+          "tx_domain_code": "C",
+          "tx_domain_name": "Character",
+          "tx_domain_seq": 2,
+          "collection_summary": [
+            {
+              "id": "cf05736c-a479-4863-89e9-f6ae5a7b26d4",
+              "title": "Make Mistakes",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/1e27ffc8-5ae3-4c00-895a-75165cd14935.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-C-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "6b9e9e0c-d81e-466e-b3b4-43f0c5791bf7",
+              "title": "Assessment: Make Mistakes",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/bbdcd09d-6ca2-49be-8568-0f656d07dbe0.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-C-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "29951ebf-90bc-4f0f-9f2e-b1958d8b37c6",
+          "lesson_title": "Check Your Experiences",
+          "tx_comp_code": "SK.DUS-DS-C-4",
+          "tx_display_code": "DS.C.4",
+          "tx_comp_name": "Able to possess strong hopes or beliefs that something will happen or that you will get something that you want.",
+          "tx_comp_student_desc": "Able to possess strong hopes or beliefs that something will happen or that you will get something that you want.",
+          "tx_comp_seq": 4,
+          "tx_domain_code": "C",
+          "tx_domain_name": "Character",
+          "tx_domain_seq": 2,
+          "collection_summary": [
+            {
+              "id": "2e8d8bfa-e525-4e1b-a9f0-3d3f2b1dfd6c",
+              "title": "Check Your Expectations",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/1bd4f981-9554-41ad-a2f1-65e1157ec20b.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-C-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "11658a60-259f-4bc9-9c9a-fea321ad1806",
+              "title": "Assessment: Check Your Expectations",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/0ec7de39-de34-46f8-b16e-df24bd8da169.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-C-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "96849cd2-6bf8-4b71-b416-2d5a0e43861e",
+          "lesson_title": "Demonstrate Integrity",
+          "tx_comp_code": "SK.DUS-DS-C-5",
+          "tx_display_code": "DS.C.5",
+          "tx_comp_name": "Demonstartes ability to be honset and have strong moral principle; behaing ethically",
+          "tx_comp_student_desc": "Demonstartes ability to be honset and have strong moral principle; behaing ethically",
+          "tx_comp_seq": 5,
+          "tx_domain_code": "C",
+          "tx_domain_name": "Character",
+          "tx_domain_seq": 2,
+          "collection_summary": [
+            {
+              "id": "1e9de67f-d156-4f1b-8953-1073647f2c11",
+              "title": "Assessment: Demonstrate Integrity",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/1fc85ec9-b14d-4c5a-91af-a49ca795fa8d.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-C-5"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            },
+            {
+              "id": "ae185fdc-5d4c-4da2-ac94-881a3d124e99",
+              "title": "Demonstrate Integrity",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/3b0d14c1-6d72-4aac-a8a2-3eed73afa6d5.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-C-5"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "8e35e02c-8d10-47e2-883a-89b5549334a6",
+          "lesson_title": "Show Responsibility",
+          "tx_comp_code": "SK.DUS-DS-C-6",
+          "tx_display_code": "DS.C.6",
+          "tx_comp_name": "Displays the willingness to take responsibility for one's actions, words, and performance",
+          "tx_comp_student_desc": "Displays the willingness to take responsibility for one's actions, words, and performance",
+          "tx_comp_seq": 6,
+          "tx_domain_code": "C",
+          "tx_domain_name": "Character",
+          "tx_domain_seq": 2,
+          "collection_summary": [
+            {
+              "id": "d91890a9-034a-4834-b579-87212927ea42",
+              "title": "Show Responsibility",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/1f5a804c-3424-40fa-8ea2-179bd1b305b2.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": null,
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "3c29f619-b359-4656-9392-be6db7cc7638",
+              "title": "Assessment: Show Responsibility",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/3fdd4a3d-1bf0-436a-85f9-72ba60748673.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-C-6"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "7dc7d94c-e36d-4c22-abe5-74842924bcbd",
+          "lesson_title": "Work Independently",
+          "tx_comp_code": "SK.DUS-DS-C-7",
+          "tx_display_code": "DS.C.7",
+          "tx_comp_name": "Works efficiently on assigned tasks all by yourself or with little assistance.",
+          "tx_comp_student_desc": "Works efficiently on assigned tasks all by yourself or with little assistance.",
+          "tx_comp_seq": 7,
+          "tx_domain_code": "C",
+          "tx_domain_name": "Character",
+          "tx_domain_seq": 2,
+          "collection_summary": [
+            {
+              "id": "bdcdafdc-9612-4436-854e-bceb91f90888",
+              "title": "Work Independently",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/3d83f73f-edb6-489d-b73a-8b2649d0a93a.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-C-7"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "8f2ed3f0-02a0-48bc-8e5c-f0a0358372fd",
+              "title": "Assessment: Work Independently",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/cfc97218-90ac-4ff9-8995-435a105f361e.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-C-7"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "a5750578-2af5-4843-b1d5-fe84b3ec0d16",
+          "lesson_title": "Send A Clear Message",
+          "tx_comp_code": "SK.DUS-DS-COMM-1",
+          "tx_display_code": "DS.COMM.1",
+          "tx_comp_name": "Conveys ideas and facts orally and in writing using language the audience will best understand.",
+          "tx_comp_student_desc": "Conveys ideas and facts orally and in writing using language the audience will best understand.",
+          "tx_comp_seq": 1,
+          "tx_domain_code": "COMM",
+          "tx_domain_name": "Communication",
+          "tx_domain_seq": 4,
+          "collection_summary": [
+            {
+              "id": "13715880-9fcc-4027-8a1c-8cee8f1c40df",
+              "title": "Send A Clear Message",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/5680d2de-0342-4fc9-8a27-80ba65d97943.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COMM-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "47e1ea4b-c940-4614-a008-0ed16547104a",
+              "title": "Assessment: Send A Clear Message",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/6a9b1638-ae25-4503-bd65-4241f0125e6f.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COMM-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "7ba2b914-253d-4330-8ded-86a99453ceb4",
+          "lesson_title": "Check For Understanding",
+          "tx_comp_code": "SK.DUS-DS-COMM-2",
+          "tx_display_code": "DS.COMM.2",
+          "tx_comp_name": "Actively verify that you are understanding the ideas or facts that are being conveyed",
+          "tx_comp_student_desc": "Actively verify that you are understanding the ideas or facts that are being conveyed",
+          "tx_comp_seq": 2,
+          "tx_domain_code": "COMM",
+          "tx_domain_name": "Communication",
+          "tx_domain_seq": 4,
+          "collection_summary": [
+            {
+              "id": "310daa51-6a72-49d0-b24d-310b4ebdf6ae",
+              "title": "Check For Understanding",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/aa1f18f9-0c68-49bc-9520-68367f35f8b0.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COMM-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "91ad6b2b-6c44-4eef-85ea-e47222631773",
+              "title": "Assessment: Check For Understanding",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/5e0e6a5d-c23f-462a-8412-c33f06836f36.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COMM-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "b7dfb516-6af0-4b80-9dd4-5307d43ee2bd",
+          "lesson_title": "Provide Useful Feedback",
+          "tx_comp_code": "SK.DUS-DS-COMM-3",
+          "tx_display_code": "DS.COMM.3",
+          "tx_comp_name": "Grasps the meaning of shared information and applies it to work situations.",
+          "tx_comp_student_desc": "Grasps the meaning of shared information and applies it to work situations.",
+          "tx_comp_seq": 3,
+          "tx_domain_code": "COMM",
+          "tx_domain_name": "Communication",
+          "tx_domain_seq": 4,
+          "collection_summary": [
+            {
+              "id": "5015ffe0-d03b-4ac3-b580-f7e8e0808f53",
+              "title": "Provide Useful Feedback",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/62c8450d-c50f-4798-bbaf-1e19ff7e6ed4.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COMM-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "41202d89-97bb-4099-96e6-e7b6dbecf79b",
+              "title": "Assessment: Provide Useful Feedback",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/2bc63ad1-d03c-4cf8-85aa-72efe3ec8918.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COMM-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "5510eccf-808d-4847-9082-fe0478d30a7c",
+          "lesson_title": "Deliver Great Presentations",
+          "tx_comp_code": "SK.DUS-DS-COMM-4",
+          "tx_display_code": "DS.COMM.4",
+          "tx_comp_name": "Formally delivers information to groups.",
+          "tx_comp_student_desc": "Formally delivers information to groups.",
+          "tx_comp_seq": 4,
+          "tx_domain_code": "COMM",
+          "tx_domain_name": "Communication",
+          "tx_domain_seq": 4,
+          "collection_summary": [
+            {
+              "id": "aaff7c62-c133-4d2c-824a-c3bb9ac196e9",
+              "title": "Deliver Great Presentations",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/a90f3ca0-e409-447f-a86f-1e57f186eba3.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COMM-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "0184c59f-8caf-40aa-a225-1dc9d7f56e28",
+              "title": "Assessment: Deliver Great Presentations",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/852313a2-b4e5-4db1-bef6-8706194f6e26.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COMM-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "5b59d1c5-1d94-4baf-a179-239e412a2e1b",
+          "lesson_title": "Use Technology Effectively",
+          "tx_comp_code": "SK.DUS-DS-COMM-5",
+          "tx_display_code": "DS.COMM.5",
+          "tx_comp_name": "Manipulate information, construct ideas, and use\ntechnology to achieve strategic goals.",
+          "tx_comp_student_desc": "Manipulate information, construct ideas, and use\ntechnology to achieve strategic goals.",
+          "tx_comp_seq": 5,
+          "tx_domain_code": "COMM",
+          "tx_domain_name": "Communication",
+          "tx_domain_seq": 4,
+          "collection_summary": [
+            {
+              "id": "a8ad90fa-6005-485d-8ece-09ff19ecdf62",
+              "title": "Use Technology Effectively",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/3e325bd9-00ae-4dc1-b022-3c8d78e6db8f.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COMM-5"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "141ed8bf-9345-4f6d-a0cd-d35193734284",
+              "title": "Assessment: Use Technology Effectively",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/b254a0d1-6fc2-47f5-a87b-4b86ee243c38.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COMM-5"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "dac5ba7a-c766-4f9d-aee3-aa5d4a2b1110",
+          "lesson_title": "Be Aware Of Differences",
+          "tx_comp_code": "SK.DUS-DS-COLL-1",
+          "tx_display_code": "DS.COLL.1",
+          "tx_comp_name": "Solicits and uses feedback from multiple cultural perspectives to\nmake inclusive and equity-minded decisions.",
+          "tx_comp_student_desc": "Solicits and uses feedback from multiple cultural perspectives to\nmake inclusive and equity-minded decisions.",
+          "tx_comp_seq": 1,
+          "tx_domain_code": "COLL",
+          "tx_domain_name": "Collaboration",
+          "tx_domain_seq": 3,
+          "collection_summary": [
+            {
+              "id": "f88da763-73c3-4e75-9d0e-70d17f79d73e",
+              "title": "Be Aware Of Differences",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/5c0f3d6c-017f-4c11-9a15-ee9e32b2ecf0.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": [29, 27]
+              }
+            },
+            {
+              "id": "07dd44ff-a872-4d89-9066-50f4d0a2891e",
+              "title": "Assessment: Be Aware Of Differences",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/7efe5344-4211-4fd6-a164-58a9a9b29f31.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "08b21bd7-c8ad-4905-ba89-fa43d1f693ff",
+          "lesson_title": "Act And Reflect",
+          "tx_comp_code": "SK.DUS-DS-COLL-2",
+          "tx_display_code": "DS.COLL.2",
+          "tx_comp_name": "Promotes cooperation and commitment within a team to achieve goals and deliverables",
+          "tx_comp_student_desc": "Promotes cooperation and commitment within a team to achieve goals and deliverables",
+          "tx_comp_seq": 2,
+          "tx_domain_code": "COLL",
+          "tx_domain_name": "Collaboration",
+          "tx_domain_seq": 3,
+          "collection_summary": [
+            {
+              "id": "b70205a5-b555-489b-8023-0136dafc1674",
+              "title": "Act And Reflect",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/dfdef3af-d59b-4c57-8a10-cbe2dc326a87.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "2896ea74-e378-4c35-a7a4-3eb7a684dfc7",
+              "title": "Assessment: Act And Reflect",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/40e122da-99e4-48c6-af8e-dc2b8b05e258.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "987ffc39-f3da-4903-ab0d-f1a4ebc20320",
+          "lesson_title": "Be Practical And Insightful",
+          "tx_comp_code": "SK.DUS-DS-COLL-3",
+          "tx_display_code": "DS.COLL.3",
+          "tx_comp_name": "Knows and supports teammates’ work and deliverables. Helps teammates who need or ask for support or assistance.",
+          "tx_comp_student_desc": "Knows and supports teammates’ work and deliverables. Helps teammates who need or ask for support or assistance.",
+          "tx_comp_seq": 3,
+          "tx_domain_code": "COLL",
+          "tx_domain_name": "Collaboration",
+          "tx_domain_seq": 3,
+          "collection_summary": [
+            {
+              "id": "54f659a6-e61c-48e5-bbd7-900d556e195f",
+              "title": "Assessment: Be Practical And Insightful",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/a9420ec8-7a90-46df-afef-b09b851e9639.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [11, 12]
+              }
+            },
+            {
+              "id": "84ffc03c-04c3-4f96-9d14-f69ca6d7b0fd",
+              "title": "Be Practical And Insightful",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/6a93e375-6634-4195-812a-c8bc02f426bb.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "9b94e488-4007-4ecd-809f-b2951191c4c1",
+          "lesson_title": "Be Logical And Compassionate",
+          "tx_comp_code": "SK.DUS-DS-COLL-4",
+          "tx_display_code": "DS.COLL.4",
+          "tx_comp_name": "Helps remove barriers to team productivity and success.",
+          "tx_comp_student_desc": "Helps remove barriers to team productivity and success.",
+          "tx_comp_seq": 4,
+          "tx_domain_code": "COLL",
+          "tx_domain_name": "Collaboration",
+          "tx_domain_seq": 3,
+          "collection_summary": [
+            {
+              "id": "b962be7c-4268-4a9b-83e3-8f7ceb50f71c",
+              "title": "Be Logical And Compassionate",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/32381e30-0cae-43a6-b1f5-a03f1eb9c5fd.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "2704081c-0da5-4b6c-845a-ca0fe6cf5add",
+              "title": "Assessment: Be Logical And Compassionate",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/e37eb045-497d-4546-8546-3e071de2e77f.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "cddd8ec4-6999-440d-8ce4-3ee0fdb8c6c6",
+          "lesson_title": "Be Decisive And Open-Ended",
+          "tx_comp_code": "SK.DUS-DS-COLL-5",
+          "tx_display_code": "DS.COLL.5",
+          "tx_comp_name": "Makes timely, informed decisions that take into account the facts, goals, constraints, and risks.",
+          "tx_comp_student_desc": "Makes timely, informed decisions that take into account the facts, goals, constraints, and risks.",
+          "tx_comp_seq": 5,
+          "tx_domain_code": "COLL",
+          "tx_domain_name": "Collaboration",
+          "tx_domain_seq": 3,
+          "collection_summary": [
+            {
+              "id": "e744ecdf-4be6-4a03-8840-6361c68cf7d8",
+              "title": "Be Decisive And Open-Ended",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/bf630e32-33b6-40de-a351-05324bb5a80c.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-5"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "b55ea3c8-1461-4aec-adbc-47bd699e92cf",
+              "title": "Assessment: Be Decisive And Open Ended",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/00a91a0e-72ca-492a-b80a-50eb1c88bc99.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-5"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "04bb4d30-682f-48e0-be8e-f8cd7eb5b6b3",
+          "lesson_title": "Trust Your Team",
+          "tx_comp_code": "SK.DUS-DS-COLL-6",
+          "tx_display_code": "DS.COLL.6",
+          "tx_comp_name": "Encourages team unity through sharing information or expertise, working together to solve problems, and putting team success first.",
+          "tx_comp_student_desc": "Encourages team unity through sharing information or expertise, working together to solve problems, and putting team success first.",
+          "tx_comp_seq": 6,
+          "tx_domain_code": "COLL",
+          "tx_domain_name": "Collaboration",
+          "tx_domain_seq": 3,
+          "collection_summary": [
+            {
+              "id": "374b5f11-64b8-4e1b-864e-00eb60bb1ca9",
+              "title": "Trust Your Team",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/7fd1bc57-9f41-43fe-bda9-95942f7d0b04.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-6"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "236e33f9-682a-4525-8618-8f20d4cb4bd6",
+              "title": "Assessment: Trust Your Team",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/4240c1a3-e4c7-4b02-ba1d-e098fb6c964b.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-6"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "93920a17-3744-45ca-ae83-1933a6e51420",
+          "lesson_title": "Collaborate",
+          "tx_comp_code": "SK.DUS-DS-COLL-7",
+          "tx_display_code": "DS.COLL.7",
+          "tx_comp_name": "Collaborate with others to achieve common goals.",
+          "tx_comp_student_desc": "Collaborate with others to achieve common goals.",
+          "tx_comp_seq": 7,
+          "tx_domain_code": "COLL",
+          "tx_domain_name": "Collaboration",
+          "tx_domain_seq": 3,
+          "collection_summary": [
+            {
+              "id": "c665328c-3a29-4659-b8e9-bc9952410a56",
+              "title": "Collaborate",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/57c1d874-1136-46da-8c20-583c7c9ca644.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-7"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "cf9d2be6-baeb-4de0-81ab-4baf4962375e",
+              "title": "Assessment: Collaborate",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/d031e97a-9355-45b5-a002-a783ba1f722a.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-7"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "fec4f405-94c5-4c0c-ad34-f43479776ac0",
+          "lesson_title": "Align Team Efforts",
+          "tx_comp_code": "SK.DUS-DS-COLL-8",
+          "tx_display_code": "DS.COLL.8",
+          "tx_comp_name": "Encourages team unity through sharing information or expertise, working together to solve problems, and putting team success first.(Align team efforts)",
+          "tx_comp_student_desc": "Encourages team unity through sharing information or expertise, working together to solve problems, and putting team success first.(Align team efforts)",
+          "tx_comp_seq": 8,
+          "tx_domain_code": "COLL",
+          "tx_domain_name": "Collaboration",
+          "tx_domain_seq": 3,
+          "collection_summary": [
+            {
+              "id": "b254f0f1-d721-46be-b6aa-b1279c11a05a",
+              "title": "Align Team Efforts",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/b976c910-23ae-4681-96e0-25929117a88c.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-8"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "c8f14965-637c-4cd1-b101-368ed5fa6c5d",
+              "title": "Assessment: Align Team Efforts",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/e3eba517-8786-4aee-bb78-c879980ca627.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-8"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "830d65f4-ebcd-45e6-b82d-b6f3e4fcfab1",
+          "lesson_title": "Achieve Together",
+          "tx_comp_code": "SK.DUS-DS-COLL-9",
+          "tx_display_code": "DS.COLL.9",
+          "tx_comp_name": "Ensures joint ownership of goal setting, commitments, and accomplishments. Involves everyone on the team.",
+          "tx_comp_student_desc": "Ensures joint ownership of goal setting, commitments, and accomplishments. Involves everyone on the team.",
+          "tx_comp_seq": 9,
+          "tx_domain_code": "COLL",
+          "tx_domain_name": "Collaboration",
+          "tx_domain_seq": 3,
+          "collection_summary": [
+            {
+              "id": "57879ac4-8ddc-4c28-a1dc-9c4cd9354a69",
+              "title": "Achieve Together",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/b6336beb-9dc6-47a2-a6ed-fe9742bce808.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-9"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "bbd8ffb7-d59f-49ab-b80f-605af9d123b8",
+              "title": "Assessment: Active Together",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/5cd3692c-a7cd-4e0d-bb6f-9621a0c0b71e.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-9"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "28b5591e-7100-4b7c-9cbd-ef8d0ca964b2",
+          "lesson_title": "Have Healthy Conflict",
+          "tx_comp_code": "SK.DUS-DS-COLL-10",
+          "tx_display_code": "DS.COLL.10",
+          "tx_comp_name": "Effectively manage conflict, interact with and respect\ndiverse personalities, and meet ambiguity with\nresilience",
+          "tx_comp_student_desc": "Effectively manage conflict, interact with and respect\ndiverse personalities, and meet ambiguity with\nresilience",
+          "tx_comp_seq": 10,
+          "tx_domain_code": "COLL",
+          "tx_domain_name": "Collaboration",
+          "tx_domain_seq": 3,
+          "collection_summary": [
+            {
+              "id": "78ec8598-1ba8-4377-9254-dd6a8844781a",
+              "title": "Have Healthy Conflict",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/3c8d52a4-3571-4a4f-9fd1-d3acf27329a3.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-10"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "00c7c345-97ae-4329-bb61-aeecd30cb49e",
+              "title": "Assessment: Have Healthy Conflict",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/716c6aac-85a4-4fc3-8a05-a27b1996d36f.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-COLL-10"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "ff77b217-56fa-4bf1-b056-8e6f55d01a5a",
+          "lesson_title": "Define Creative Thinking",
+          "tx_comp_code": "SK.DUS-DS-CREA-1",
+          "tx_display_code": "DS.CREA.1",
+          "tx_comp_name": "Display curiosity; seek out opportunities to learn.",
+          "tx_comp_student_desc": "Display curiosity; seek out opportunities to learn.",
+          "tx_comp_seq": 1,
+          "tx_domain_code": "CREA",
+          "tx_domain_name": "Creativity",
+          "tx_domain_seq": 5,
+          "collection_summary": [
+            {
+              "id": "2c57a428-a67d-4fc0-8ca1-217f8b9106ac",
+              "title": "Assessment: Define Creative Thinking",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/f96a1e82-601b-46f7-969f-91cd13e9e342.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-CREA-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [11, 12]
+              }
+            },
+            {
+              "id": "52c17fc7-f527-40c5-87e1-9162f13b2c82",
+              "title": "Define Creative Thinking",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/4e7644b4-e452-4c7f-bda9-fcf23f339b77.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-CREA-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "738226bc-2f9e-4f9e-815d-cb88dbfa628d",
+          "lesson_title": "Understand The Creative Process",
+          "tx_comp_code": "SK.DUS-DS-CREA-2",
+          "tx_display_code": "DS.CREA.2",
+          "tx_comp_name": "Able to express creativity through ideas or products that are both original and effective",
+          "tx_comp_student_desc": "Able to express creativity through ideas or products that are both original and effective",
+          "tx_comp_seq": 2,
+          "tx_domain_code": "CREA",
+          "tx_domain_name": "Creativity",
+          "tx_domain_seq": 5,
+          "collection_summary": [
+            {
+              "id": "b74b881e-de5d-44d5-a891-86abbc6d0fab",
+              "title": "Assessment: Understand The Creative Process",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/d73c79a5-8480-4d49-a1c5-b6eeeeced279.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-CREA-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [11, 12]
+              }
+            },
+            {
+              "id": "5da2531c-4bb1-44f2-9a6b-cbda1f5dd1a7",
+              "title": "Understanding The Creative Process",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/07e578a0-baec-48bf-9ec4-a8d304b0a253.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-CREA-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "96f35eb8-21e1-46fa-a66f-0de601698c93",
+          "lesson_title": "Brainstorm",
+          "tx_comp_code": "SK.DUS-DS-CREA-3",
+          "tx_display_code": "DS.CREA.3",
+          "tx_comp_name": "Produces a broad or a diverse set of ideas within a short period of time.",
+          "tx_comp_student_desc": "Produces a broad or a diverse set of ideas within a short period of time.",
+          "tx_comp_seq": 3,
+          "tx_domain_code": "CREA",
+          "tx_domain_name": "Creativity",
+          "tx_domain_seq": 5,
+          "collection_summary": [
+            {
+              "id": "e440a96b-14d2-490b-b98b-ff71b990c092",
+              "title": "Assessment: Brainstorm",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/7c52ee48-d457-44b2-bbf3-662dad038c86.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-CREA-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [11, 12]
+              }
+            },
+            {
+              "id": "1034b9b9-e12f-4086-b254-0275157f10be",
+              "title": "Brainstorm",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/968de5a0-4cb1-45bb-87e8-c143d3379d53.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-CREA-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "79d748d8-bec7-446b-9336-55270ef6ae47",
+          "lesson_title": "Break Mental Barriers To Creativity",
+          "tx_comp_code": "SK.DUS-DS-CREA-4",
+          "tx_display_code": "DS.CREA.4",
+          "tx_comp_name": "Identify and overcome barriers to thinking creativiely",
+          "tx_comp_student_desc": "Identify and overcome barriers to thinking creativiely",
+          "tx_comp_seq": 4,
+          "tx_domain_code": "CREA",
+          "tx_domain_name": "Creativity",
+          "tx_domain_seq": 5,
+          "collection_summary": [
+            {
+              "id": "e2c88856-8c25-49fc-9e54-f42f5bc195a7",
+              "title": "Assessment: Break Mental Barriers To Creativity",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/4f807787-de78-4c9b-b369-cd217db1301c.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-CREA-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [11, 12]
+              }
+            },
+            {
+              "id": "c8a4134e-8a49-4a12-a5fb-8069f49f37eb",
+              "title": "Break Mental Barriers To Creativity",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/cd96002e-57f4-4abb-a685-748fea1e5114.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-CREA-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "bf0fbd77-95d1-4de6-a736-4b9e8b2ccd2c",
+          "lesson_title": "Thrive In Transition",
+          "tx_comp_code": "SK.DUS-DS-F-1",
+          "tx_display_code": "DS.F.1",
+          "tx_comp_name": "Able to thrive in the midst of transitions and change",
+          "tx_comp_student_desc": "Able to thrive in the midst of transitions and change",
+          "tx_comp_seq": 1,
+          "tx_domain_code": "F",
+          "tx_domain_name": "Fortitude",
+          "tx_domain_seq": 7,
+          "collection_summary": [
+            {
+              "id": "dfa75071-157d-4739-bee5-d9c9faf49024",
+              "title": "Thrive In Transition",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/dc3e5d18-99f0-4e5c-8508-c3375b26d205.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "16fbe38d-2ca9-4637-bd25-143b566e8a52",
+              "title": "Thrive In Transition",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/e00a3192-35ab-4e5c-8814-811604b9ddca.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "ad5f3e32-26ca-43eb-9341-737831d7c777",
+          "lesson_title": "Find Your Optimal Stress",
+          "tx_comp_code": "SK.DUS-DS-F-2",
+          "tx_display_code": "DS.F.2",
+          "tx_comp_name": "Able to use tools and skills to determine optimal stress level",
+          "tx_comp_student_desc": "Able to use tools and skills to determine optimal stress level",
+          "tx_comp_seq": 2,
+          "tx_domain_code": "F",
+          "tx_domain_name": "Fortitude",
+          "tx_domain_seq": 7,
+          "collection_summary": [
+            {
+              "id": "c263c494-78cc-4660-81b9-d00078cb6a1e",
+              "title": "Find Your Optimal Stress",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/4d331ae9-6fee-4bee-8b57-b74d230fb72a.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "60aecfb5-e4a4-4f5d-9a28-bd54ebb5c0b4",
+              "title": "Assessment: Find Your Optimal Stress",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/2d3cb81e-b755-4f9f-8f24-484bed79e92a.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "c30941c7-68f6-4b72-84ce-29d130b9764b",
+          "lesson_title": "Be Active, Eat, And Sleep Well",
+          "tx_comp_code": "SK.DUS-DS-F-3",
+          "tx_display_code": "DS.F.3",
+          "tx_comp_name": "Understand the importance of praticing good healthy self-care habits",
+          "tx_comp_student_desc": "Understand the importance of praticing good healthy self-care habits",
+          "tx_comp_seq": 3,
+          "tx_domain_code": "F",
+          "tx_domain_name": "Fortitude",
+          "tx_domain_seq": 7,
+          "collection_summary": [
+            {
+              "id": "e219427c-554f-4886-84ec-c7073f5eaa63",
+              "title": "Be Active, Eat, And Sleep Well",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/db764bf2-4dd5-4477-9c9b-61d2e0548e65.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "8a0c3393-fb02-4046-945d-1e060de0742c",
+              "title": "Assessment: Be Active, Eat, And Sleep Well",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/6f66f565-14c8-49bd-bd9a-2dd21534b424.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "93ce2474-bb3a-4bdb-b784-002a99f94a6a",
+          "lesson_title": "Care For Your Mind And Spirit",
+          "tx_comp_code": "SK.DUS-DS-F-4",
+          "tx_display_code": "DS.F.4",
+          "tx_comp_name": "Cares for mind and spirit",
+          "tx_comp_student_desc": "Cares for mind and spirit",
+          "tx_comp_seq": 4,
+          "tx_domain_code": "F",
+          "tx_domain_name": "Fortitude",
+          "tx_domain_seq": 7,
+          "collection_summary": [
+            {
+              "id": "94d0b4b1-2e34-4408-92f7-42169e32c948",
+              "title": "Assessment: Care For Your Mind And Spirit",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/be08dcc0-c001-4a91-9648-2d9d8655ee34.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            },
+            {
+              "id": "97a5b250-5e28-4181-b2ed-9426c9b33bc1",
+              "title": "Care For Your Mind And Spirit",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/6fc48461-9d13-4af6-bd8b-cc7d815a43c5.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "259c7448-6be0-41b1-950d-41c83f905644",
+          "lesson_title": "Build Resilience",
+          "tx_comp_code": "SK.DUS-DS-F-5",
+          "tx_display_code": "DS.F.5",
+          "tx_comp_name": "Builds the capacity to withstand or to recover quickly from difficulties",
+          "tx_comp_student_desc": "Builds the capacity to withstand or to recover quickly from difficulties",
+          "tx_comp_seq": 5,
+          "tx_domain_code": "F",
+          "tx_domain_name": "Fortitude",
+          "tx_domain_seq": 7,
+          "collection_summary": [
+            {
+              "id": "6cf97c43-1640-47c7-a63f-190631a9460d",
+              "title": "Build Resilience",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/f542b4a2-0fa9-43f7-b752-72c8cc37a234.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-5"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "beafb337-45a1-4ebf-a55e-0760c6470ccf",
+              "title": "Assessment: Build Resilience",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/58d7a491-69bc-42fe-9f47-c56c2cc00a71.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-5"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "373e0b0b-998e-44f0-818c-36b172f675fa",
+          "lesson_title": "Value Effort And Accomplishments",
+          "tx_comp_code": "SK.DUS-DS-F-6",
+          "tx_display_code": "DS.F.6",
+          "tx_comp_name": "Values the incentives or purposes that individuals have for succeeding on a given task",
+          "tx_comp_student_desc": "Values the incentives or purposes that individuals have for succeeding on a given task",
+          "tx_comp_seq": 6,
+          "tx_domain_code": "F",
+          "tx_domain_name": "Fortitude",
+          "tx_domain_seq": 7,
+          "collection_summary": [
+            {
+              "id": "6cfc0a06-d9bc-4f92-92f9-013edbc91b9c",
+              "title": "Value Effort And Accomplishments",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/54f23cfb-2703-4b25-a172-ed743ee20cbb.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-6"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "651545df-4457-4e3e-825c-d6d116c43063",
+              "title": "Assessment: Value Effort And Accomplishments",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/7fb36c3f-687a-4f27-8106-07898bf18b0c.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-6"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "0c286f21-ea7b-4dd4-87d6-ff9292a4474b",
+          "lesson_title": "Maintain Your Focus",
+          "tx_comp_code": "SK.DUS-DS-F-7",
+          "tx_display_code": "DS.F.7",
+          "tx_comp_name": "Able to persist with the task at hand and continue to work  and ensure that you stay concentrated on that one activity.",
+          "tx_comp_student_desc": "Able to persist with the task at hand and continue to work  and ensure that you stay concentrated on that one activity.",
+          "tx_comp_seq": 7,
+          "tx_domain_code": "F",
+          "tx_domain_name": "Fortitude",
+          "tx_domain_seq": 7,
+          "collection_summary": [
+            {
+              "id": "907ce172-aa93-4bfc-8f08-292c7190dba4",
+              "title": "Maintain Your Focus",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/b3565cbd-257a-456b-95d8-2c6c46c7f4e2.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-7"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "c9327a4d-8c1d-464e-98c3-2152567376b9",
+              "title": "Assessment: Maintain Your Focus",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/d666361a-8dbf-4ee5-810e-267cfd2854a9.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-7"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "7a7f7ca2-9b34-48f7-b95d-714fa046da8b",
+          "lesson_title": "Delay Gratification",
+          "tx_comp_code": "SK.DUS-DS-F-8",
+          "tx_display_code": "DS.F.8",
+          "tx_comp_name": "Has the  ability to delay an impulse for an immediate reward to receive a more favorable reward at a later time.",
+          "tx_comp_student_desc": "Has the  ability to delay an impulse for an immediate reward to receive a more favorable reward at a later time.",
+          "tx_comp_seq": 8,
+          "tx_domain_code": "F",
+          "tx_domain_name": "Fortitude",
+          "tx_domain_seq": 7,
+          "collection_summary": [
+            {
+              "id": "154f4d04-79ff-4a44-b57d-29522d5c637d",
+              "title": "Delay Gratification",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/bdb88c6d-b744-45e3-8832-65039d9a8a03.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-8"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "e25842d8-aba0-43e1-851a-179bf8495b3d",
+              "title": "Assessment: Delay Gratification",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/dc81008a-3622-45f8-ae70-b48ac2573cdd.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-8"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "fb1b58d6-27db-43b5-a3ce-840824ed24b9",
+          "lesson_title": "Persevere",
+          "tx_comp_code": "SK.DUS-DS-F-9",
+          "tx_display_code": "DS.F.9",
+          "tx_comp_name": "Abilitty to continue in a course of action even in the face of difficulty or with little or no prospect of success.",
+          "tx_comp_student_desc": "Abilitty to continue in a course of action even in the face of difficulty or with little or no prospect of success.",
+          "tx_comp_seq": 9,
+          "tx_domain_code": "F",
+          "tx_domain_name": "Fortitude",
+          "tx_domain_seq": 7,
+          "collection_summary": [
+            {
+              "id": "03ef90bc-4c74-4b84-9fb6-4081b2ba418c",
+              "title": "Preserve",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/bf6cd444-3160-4d9e-bddd-f0cd95a045c1.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-9"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "ff0f12f9-dbb7-45b9-95a2-dc5e79c87a6a",
+              "title": "Assessment: Persevere",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/fdcac918-c32c-457e-bf7b-623650114dca.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-F-9"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "121f60e6-078d-4f15-8487-30a5fcb2c69f",
+          "lesson_title": "Be Innovative And Resourceful",
+          "tx_comp_code": "SK.DUS-DS-L-1",
+          "tx_display_code": "DS.L.1",
+          "tx_comp_name": "Uses innovative thinking to go beyond traditional\nmethods.",
+          "tx_comp_student_desc": "Uses innovative thinking to go beyond traditional\nmethods.",
+          "tx_comp_seq": 1,
+          "tx_domain_code": "L",
+          "tx_domain_name": "Leadership",
+          "tx_domain_seq": 9,
+          "collection_summary": [
+            {
+              "id": "b9a7f958-1919-442a-a8d4-63511daf5dc8",
+              "title": "Be Innovative And Resourceful",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/730eff9a-e190-40e2-a3c1-d48c28ac981b.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-L-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "767133f1-69a9-40d5-b1e9-5f1c9fccba20",
+              "title": "Assessment: Be Innovative And Resourceful",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/ff0d2537-488a-4ede-b3f1-9fd3a89a6aa4.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-L-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [],
+                "21_century_skills": [],
+                "depth_of_knowledge": [11, 12]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "464715a6-6dd7-44a4-8592-f8e9dce60243",
+          "lesson_title": "Use Mental Maps",
+          "tx_comp_code": "SK.DUS-DS-L-3",
+          "tx_display_code": "DS.L.3",
+          "tx_comp_name": "Plan, initiate, manage, complete, and evaluate projects.",
+          "tx_comp_student_desc": "Plan, initiate, manage, complete, and evaluate projects.",
+          "tx_comp_seq": 3,
+          "tx_domain_code": "L",
+          "tx_domain_name": "Leadership",
+          "tx_domain_seq": 9,
+          "collection_summary": [
+            {
+              "id": "d1dde8f9-87eb-4d8c-adb6-fa25d1744992",
+              "title": "Use Mental Maps",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/0fdb8118-675b-4a21-9bf7-2e56456ace39.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-L-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "6245100e-3449-4dae-8a50-06ae88db2ad3",
+              "title": "Assessment: Use Mental Maps",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/7be7c3e0-f7f8-4a76-9f26-7c518a6b36f1.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-L-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "464715a6-6dd7-44a4-8592-f8e9dce60243",
+          "lesson_title": "Use Mental Maps",
+          "tx_comp_code": "SK.DUS-DS-L-2",
+          "tx_display_code": "DS.L.2",
+          "tx_comp_name": "Seeks out and leverage diverse resources and feedback\nfrom others to inform direction.",
+          "tx_comp_student_desc": "Seeks out and leverage diverse resources and feedback\nfrom others to inform direction.",
+          "tx_comp_seq": 2,
+          "tx_domain_code": "L",
+          "tx_domain_name": "Leadership",
+          "tx_domain_seq": 9,
+          "collection_summary": [
+            {
+              "id": "d1dde8f9-87eb-4d8c-adb6-fa25d1744992",
+              "title": "Use Mental Maps",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/0fdb8118-675b-4a21-9bf7-2e56456ace39.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-L-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "6245100e-3449-4dae-8a50-06ae88db2ad3",
+              "title": "Assessment: Use Mental Maps",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/7be7c3e0-f7f8-4a76-9f26-7c518a6b36f1.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-L-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "490e6271-35ea-44c3-89bc-ef1567ffbe10",
+          "lesson_title": "Identify Loops",
+          "tx_comp_code": "SK.DUS-DS-L-2",
+          "tx_display_code": "DS.L.2",
+          "tx_comp_name": "Seeks out and leverage diverse resources and feedback\nfrom others to inform direction.",
+          "tx_comp_student_desc": "Seeks out and leverage diverse resources and feedback\nfrom others to inform direction.",
+          "tx_comp_seq": 2,
+          "tx_domain_code": "L",
+          "tx_domain_name": "Leadership",
+          "tx_domain_seq": 9,
+          "collection_summary": [
+            {
+              "id": "f68416c2-42cf-4387-98de-ea3ace21e008",
+              "title": "Identify Loops",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/ba9c206f-8ebd-4fd3-bdd6-4235319d6f63.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-L-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "03234ca8-ea7a-4595-8885-1c85c69e6980",
+              "title": "Assessment: Identify Loops",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/43aaae8a-478f-4f23-b445-65c66c361d1d.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-L-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "4febb30b-24f3-4261-8f05-a8c7f27c05c0",
+          "lesson_title": "Recognize Systems",
+          "tx_comp_code": "SK.DUS-DS-L-2",
+          "tx_display_code": "DS.L.2",
+          "tx_comp_name": "Seeks out and leverage diverse resources and feedback\nfrom others to inform direction.",
+          "tx_comp_student_desc": "Seeks out and leverage diverse resources and feedback\nfrom others to inform direction.",
+          "tx_comp_seq": 2,
+          "tx_domain_code": "L",
+          "tx_domain_name": "Leadership",
+          "tx_domain_seq": 9,
+          "collection_summary": [
+            {
+              "id": "e415fbd1-0615-4aa2-be78-0437234393fc",
+              "title": "Recognize Systems",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/7144c0ea-d6bd-4e4e-9359-b753d59d7954.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-L-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "059ed0f7-787a-41ea-9e41-8e7877bde3f9",
+              "title": "Assessment: Recognize Systems",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/36135797-807a-43c5-aac5-fb609165a112.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-L-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "4febb30b-24f3-4261-8f05-a8c7f27c05c0",
+          "lesson_title": "Recognize Systems",
+          "tx_comp_code": "SK.DUS-DS-L-3",
+          "tx_display_code": "DS.L.3",
+          "tx_comp_name": "Plan, initiate, manage, complete, and evaluate projects.",
+          "tx_comp_student_desc": "Plan, initiate, manage, complete, and evaluate projects.",
+          "tx_comp_seq": 3,
+          "tx_domain_code": "L",
+          "tx_domain_name": "Leadership",
+          "tx_domain_seq": 9,
+          "collection_summary": [
+            {
+              "id": "e415fbd1-0615-4aa2-be78-0437234393fc",
+              "title": "Recognize Systems",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/7144c0ea-d6bd-4e4e-9359-b753d59d7954.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-L-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "059ed0f7-787a-41ea-9e41-8e7877bde3f9",
+              "title": "Assessment: Recognize Systems",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/36135797-807a-43c5-aac5-fb609165a112.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-L-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "8a2d46af-8c1d-4312-9273-6024cf07f46a",
+          "lesson_title": "Promote Yourself",
+          "tx_comp_code": "SK.DUS-DS-L-4",
+          "tx_display_code": "DS.L.4",
+          "tx_comp_name": "Inspire, persuade, and motivate self and others under a shared vision.",
+          "tx_comp_student_desc": "Inspire, persuade, and motivate self and others under a shared vision.",
+          "tx_comp_seq": 4,
+          "tx_domain_code": "L",
+          "tx_domain_name": "Leadership",
+          "tx_domain_seq": 9,
+          "collection_summary": [
+            {
+              "id": "904b9137-d2a9-49d5-98fb-aa6f7e5c9235",
+              "title": "Assessment: Promote Yourself",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/8ef9b052-3235-4d2c-80c4-bc493423cf6f.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-L-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            },
+            {
+              "id": "958ac662-4862-42f9-9422-a64b439b7ac5",
+              "title": "Improve Self-Promotion",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/76fddf6b-414d-4c61-907b-342830d00ac1.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-L-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "1b3a2c65-57b2-4f96-938a-eedeeadf86c1",
+          "lesson_title": "Have A Growth Mindset",
+          "tx_comp_code": "SK.DUS-DS-GM-1",
+          "tx_display_code": "DS.GM.1",
+          "tx_comp_name": "Thrives on a challenge, and does not  see failure as a way to describe yourself but as a springboard for growth and developing your abilities.",
+          "tx_comp_student_desc": "Thrives on a challenge, and does not  see failure as a way to describe yourself but as a springboard for growth and developing your abilities.",
+          "tx_comp_seq": 1,
+          "tx_domain_code": "GM",
+          "tx_domain_name": "Growth Mindset",
+          "tx_domain_seq": 8,
+          "collection_summary": [
+            {
+              "id": "c51b7c11-0da1-4c89-b866-86eafbcfb37a",
+              "title": "Have A Growth Mindset",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/fb1e90c3-3f24-470b-9423-aec6c03fa69f.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-GM-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "230a3e73-9b41-4930-b6c7-b1c569c262a2",
+              "title": "Assessment: Have A Growth Mindset",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/a19672ca-8c84-4872-a147-bb40005f5225.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-GM-1"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "8c06a00a-2e20-4e69-8e47-8510d698f006",
+          "lesson_title": "Get Off Auto Pilot",
+          "tx_comp_code": "SK.DUS-DS-GM-2",
+          "tx_display_code": "DS.GM.2",
+          "tx_comp_name": "Believes that achievements are down to effort, not just inherent talent.",
+          "tx_comp_student_desc": "Believes that achievements are down to effort, not just inherent talent.",
+          "tx_comp_seq": 2,
+          "tx_domain_code": "GM",
+          "tx_domain_name": "Growth Mindset",
+          "tx_domain_seq": 8,
+          "collection_summary": [
+            {
+              "id": "95c8fba6-7eb6-4827-a89a-830a3ad02d6a",
+              "title": "Get Off Autopilot",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/154d86b2-5538-493d-8dc7-d38d8ebc5624.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-GM-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "fd66bbf7-6462-4537-aabd-d69a4e59f343",
+              "title": "Assessment: Get Off Autopilot",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/9689948c-e808-49eb-8daf-b1b7f65a97f5.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-GM-2"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "261b939e-aa5e-4712-9dd6-9486e77abdaf",
+          "lesson_title": "Be Proactive",
+          "tx_comp_code": "SK.DUS-DS-GM-3",
+          "tx_display_code": "DS.GM.3",
+          "tx_comp_name": "Displays willingness to acti in anticipation of future problems",
+          "tx_comp_student_desc": "Displays willingness to acti in anticipation of future problems",
+          "tx_comp_seq": 3,
+          "tx_domain_code": "GM",
+          "tx_domain_name": "Growth Mindset",
+          "tx_domain_seq": 8,
+          "collection_summary": [
+            {
+              "id": "f4ab54c5-b7a7-4038-b40c-ca966770c843",
+              "title": "Be Proactive",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/9aa4275b-f697-4ea6-8b53-3c780c2e65c5.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-GM-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "9bfab757-3107-4baf-b1c8-e21ce66d3968",
+              "title": "Assessment: Be Proactive",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/703ea2f8-6403-423a-88f4-755f7d1af35f.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-GM-3"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "f8ce9e12-c310-49f9-a8e0-109a18c5f037",
+          "lesson_title": "Produce Quality Work",
+          "tx_comp_code": "SK.DUS-DS-GM-4",
+          "tx_display_code": "DS.GM.4",
+          "tx_comp_name": "Completes a service/tasks successfully within the estimated time, with the end output satisfying the expectations of everyone involved, including oneself.",
+          "tx_comp_student_desc": "Completes a service/tasks successfully within the estimated time, with the end output satisfying the expectations of everyone involved, including oneself.",
+          "tx_comp_seq": 4,
+          "tx_domain_code": "GM",
+          "tx_domain_name": "Growth Mindset",
+          "tx_domain_seq": 8,
+          "collection_summary": [
+            {
+              "id": "38d958ed-c5b1-40c7-bb7c-ea114d11610b",
+              "title": "Produce Quality Work",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/87525197-3778-4968-a956-cc37dd62d72c.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": null,
+              "learning_objective": null,
+              "metadata": {
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "61952237-cda6-4f6c-832a-bda26dbe5e06",
+              "title": "Assessment: Produce Quality Work",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/c3475bda-72d7-456b-a253-edd68ae4aa0d.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-GM-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "6097068a-9ff2-4630-8e1a-38296a9d4a60",
+          "lesson_title": "Exceed Expectations",
+          "tx_comp_code": "SK.DUS-DS-GM-4",
+          "tx_display_code": "DS.GM.4",
+          "tx_comp_name": "Completes a service/tasks successfully within the estimated time, with the end output satisfying the expectations of everyone involved, including oneself.",
+          "tx_comp_student_desc": "Completes a service/tasks successfully within the estimated time, with the end output satisfying the expectations of everyone involved, including oneself.",
+          "tx_comp_seq": 4,
+          "tx_domain_code": "GM",
+          "tx_domain_name": "Growth Mindset",
+          "tx_domain_seq": 8,
+          "collection_summary": [
+            {
+              "id": "e7132e00-573d-4fa6-8c15-368f025e3c90",
+              "title": "Exceed Expectations",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/797f8c84-1214-411c-b625-730cd3c52eee.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-GM-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "88509ebb-6983-4cf4-8e77-e377850ec2eb",
+              "title": "Assessment: Exceed Expectations",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/1cf36930-e71e-4911-ae99-9c1ee6f972b4.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-GM-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "e16d56c4-0892-4aa4-9394-69871f615f19",
+          "lesson_title": "Take Initiative",
+          "tx_comp_code": "SK.DUS-DS-GM-4",
+          "tx_display_code": "DS.GM.4",
+          "tx_comp_name": "Completes a service/tasks successfully within the estimated time, with the end output satisfying the expectations of everyone involved, including oneself.",
+          "tx_comp_student_desc": "Completes a service/tasks successfully within the estimated time, with the end output satisfying the expectations of everyone involved, including oneself.",
+          "tx_comp_seq": 4,
+          "tx_domain_code": "GM",
+          "tx_domain_name": "Growth Mindset",
+          "tx_domain_seq": 8,
+          "collection_summary": [
+            {
+              "id": "f32c2b2b-6a29-4838-9b5c-04d0eff268a4",
+              "title": "Take Initiative",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/3db958b1-b023-402f-9046-ae46f6cf7c7d.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": null,
+              "learning_objective": null,
+              "metadata": {
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "bc5e5204-6f16-4b04-8e25-8c8244928139",
+              "title": "Assessment: Take Initiative",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/8eaca0df-464b-4766-b737-7428f4cc3001.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-GM-4"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        },
+        {
+          "lesson_id": "10e8fbd3-86b6-40f6-843e-1fe80f6d277b",
+          "lesson_title": "Practice Continuous Improvement",
+          "tx_comp_code": "SK.DUS-DS-GM-5",
+          "tx_display_code": "DS.GM.5",
+          "tx_comp_name": "Displays an ongoing commitment to learning and continuous self-improvement",
+          "tx_comp_student_desc": "Displays an ongoing commitment to learning and continuous self-improvement",
+          "tx_comp_seq": 5,
+          "tx_domain_code": "GM",
+          "tx_domain_name": "Growth Mindset",
+          "tx_domain_seq": 8,
+          "collection_summary": [
+            {
+              "id": "8864b124-9422-42c4-bbcf-b566e007cd76",
+              "title": "Practice Continuous Improvement",
+              "format": "collection",
+              "sequence_id": 1,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/593fc69f-45d2-4c91-b6b0-01f1c43d2353.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-GM-5"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "thumbnailAltText": null,
+                "21_century_skills": []
+              }
+            },
+            {
+              "id": "51b31a40-65cd-48b5-a6f7-c7d9ccf3f210",
+              "title": "Assessment: Practice Continuous Improvement",
+              "format": "assessment",
+              "sequence_id": 2,
+              "thumbnail": "5d753aa1-0390-4fb2-9b00-342a0a1d0ae2/8509f33e-4b56-412e-8b62-3d20a7821123/efd03d9d-e50f-42d3-8348-8af0f48a5acd.png",
+              "url": null,
+              "subformat": null,
+              "gut_codes": ["SK.DUS-DS-GM-5"],
+              "learning_objective": null,
+              "metadata": {
+                "fluency": null,
+                "audience": [4],
+                "21_century_skills": [],
+                "depth_of_knowledge": [10, 11]
+              }
+            }
+          ],
+          "suggestions": {
+            "signature": []
+          }
+        }
+      ]
+    }
+  ]
+}
